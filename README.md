@@ -40,7 +40,7 @@ Outside of tech, I like to keep myself active by hiking in mountains, diving und
 I have dealt with projects of various scopes & nature, seen below:
 - [AI Engineering](https://github.com/kevinkyhalim/misinfo-whatsapp-bot) - Whatsapp chatbot to enable users verify truthfulness of messages, powered by Gemini API
 - [NLP](https://github.com/kevinkyhalim/enron_ind5003) - Unsupervised learning based on Enron's Email Corpus, covering topics such as LDA, anomaly detection and sentiment analysis
-- [Web Scraping](https://github.com/kevinkyhalim/smart_device_web_scraper) - Creation of database of smart device hardware specs. through a self-built web scraping tool
+- [Web Scraping](https://github.com/kevinkyhalim/smart_device_web_scraper) - Creation of database of smart device hardware specs through a self-built web scraping tool
 - [Machine Learning](https://github.com/kevinkyhalim/quality_prediction_ml_modeling) - Prediction of quality results from manufacturing process of industrial grade product
 - [Movie Website](https://github.com/kevinkyhalim/react_movie_website) - Movie website using React to create a movie website with API integration
 - Dashboard - IFSC (International Federation of Sports Climbing) Data
